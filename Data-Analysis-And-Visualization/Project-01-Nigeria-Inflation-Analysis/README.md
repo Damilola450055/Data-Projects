@@ -67,3 +67,12 @@ Multiple visuals were created to reveal trends and relationships:
 | **CPI Components Composition** | Breakdown of inflation by category |
 
 > All visuals are generated within the notebook but also exported as images in the `visuals/` folder.
+
+## Tools & Libraries 
+- **Python**  
+  - pandas  
+  - numpy  
+  - matplotlib  
+  - seaborn  
+  - scipy.stats (z-score analysis)  
+- **Jupyter Notebook**
