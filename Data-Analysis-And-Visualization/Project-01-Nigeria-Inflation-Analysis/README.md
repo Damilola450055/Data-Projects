@@ -24,7 +24,7 @@ The dataset was cleaned and prepared for analysis to ensure accuracy and consist
 - Checked for duplicates and corrected data types  
 - Combined **Year** and **Month** columns into a single **Date** column  
 - Added a `Day=1` column to form valid date objects  
-- Filtered dataset to cover the **2015–2024** period for consistency  
+- Filtered dataset to cover the **2015–2023** period for consistency  
 
 ---
 
