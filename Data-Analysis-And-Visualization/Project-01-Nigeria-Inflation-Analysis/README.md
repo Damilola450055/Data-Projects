@@ -7,7 +7,7 @@ The main goal was to **clean**, **verify**, and **analyze** the dataset to under
 ---
 
 ## Data Source  
-- **Primary:** [Kaggle – Nigeria Inflation Dataset](https://www.kaggle.com/)  
+- **Primary:** [Kaggle – Nigeria Inflation Dataset](https://www.kaggle.com/datasets/iamhardy/nigeria-inflation-rates)  
 - **Verification:** Central Bank of Nigeria (CBN) official statistics  
 
 ---
