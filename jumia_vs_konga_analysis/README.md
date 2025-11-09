@@ -5,6 +5,8 @@
 This project analyzes iPhone prices across Jumia and Konga, two of Nigeria’s largest e-commerce platforms.
 It focuses on **comparing price trends**, **availability**, and **correlations** between both marketplaces using data scraped directly from their websites.
 
+**Data was collected using standard web scraping methods on publicly available web pages. The process strictly followed ethical scraping guidelines and respected the robots.txt rules of both platforms, ensuring that no security measures were bypassed and no Terms of Service were violated.**
+
 ---
 
 ## Phase 1 — Web Scraping
